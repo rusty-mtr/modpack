@@ -1,0 +1,13 @@
+name = "Minecraft Transit Railway"
+filename = "MTR-fabric-4.0.0-beta-10+1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XKPAmI6u/versions/hwFBUhjH/MTR-fabric-4.0.0-beta-10%2B1.20.4.jar"
+hash-format = "sha512"
+hash = "d1451c10e741e5ab6104cb753f415b05e5bdffc8a04a90c3334702bffaf25923d586bc37f7b618f29239bfe543d27b825338c9bf2e685244b57937958af33c85"
+
+[update]
+[update.modrinth]
+mod-id = "XKPAmI6u"
+version = "hwFBUhjH"

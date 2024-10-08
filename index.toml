@@ -1,0 +1,44 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/resourcepackupdated.json"
+hash = "3bbd5ffec8026fa890d93575fecd1697a8026b481ae51d40f67b1b08d9693700"
+
+[[files]]
+file = "mods/bta.pw.toml"
+hash = "40004f278003f1f37abf26290b442fc40a8dcdacce54673e633d829d7e928695"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "c0b641b5e3f1f71278913888d83d8a7727f4fe058a60d8f99d89fb388c7c473f"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "83ad7d21bc43be38232b2d818ac5b9d45a44a03c140709eb3e0aa26ea73dca37"
+metafile = true
+
+[[files]]
+file = "mods/jcm.pw.toml"
+hash = "7c123f00a3f996f39835b8bf5a632b9fbd655e5151cb4d33b5b2557772ab906d"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "c41e48dd560e0017daf1c0671577ee2d428f8b45cd78822f31047c69985dc8b0"
+metafile = true
+
+[[files]]
+file = "mods/resourcepackupdater-1.20.4-2.3.0.jar"
+hash = "ad1943311107f5b94e2fbe78225ec3286531cb8b419f3fb27e36c5d5890a0669"
+
+[[files]]
+file = "mods/the-tube.pw.toml"
+hash = "49b2591c17423f680ceba74a28e89ed92dff5471827312416b7f2ee24361532b"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "657bbc4323c8297e9ac58ef13a6bbd2f72320f8fd492c1878d162b69a4355169"
+metafile = true

@@ -1,0 +1,12 @@
+name = "RustyMTR"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4e7f87f5db9d6b0d0dc6407e545d444f90dc33c9989954c63a6c3af517c1d523"
+
+[versions]
+fabric = "0.16.5"
+minecraft = "1.20.4"
