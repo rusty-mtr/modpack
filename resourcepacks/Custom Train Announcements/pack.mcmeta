@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 22,
+    "description": "UK-like Train Announcements",
+    "supported_formats": [
+      15,
+      34
+    ]
+  }
+}

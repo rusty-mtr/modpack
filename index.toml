@@ -19,3 +19,79 @@ metafile = true
 file = "mods/the-tube.pw.toml"
 hash = "49b2591c17423f680ceba74a28e89ed92dff5471827312416b7f2ee24361532b"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Custom Train Announcements/assets/minecraft/sounds.json"
+hash = "af0289f2ccadcad34dfd01dd5ec9cf2afdacb7dd2f8ad88aabd1f88990317759"
+
+[[files]]
+file = "resourcepacks/Custom Train Announcements/assets/minecraft/sounds/metrolink_acacia_heights_platform_1.ogg"
+hash = "e29825affdaf32b67cd6c6b8e46b9b91e4e934c0f3b7c937361bc89f6950d36e"
+
+[[files]]
+file = "resourcepacks/Custom Train Announcements/assets/minecraft/sounds/metrolink_acacia_heights_platform_2.ogg"
+hash = "7413e15f1972c9207e09935fc7c962e5b949820cc170cb250bb140cd3b31c1ac"
+
+[[files]]
+file = "resourcepacks/Custom Train Announcements/assets/minecraft/sounds/metrolink_pittsburgh_platform_1.ogg"
+hash = "b8ecd41fe3bd0db97b2c57810828d8a8da6609e265a9e73a92b80c15fd167cf6"
+
+[[files]]
+file = "resourcepacks/Custom Train Announcements/assets/minecraft/sounds/metrolink_pittsburgh_platform_2.ogg"
+hash = "c0a18558fd681a9ece7086ce148a1d3701074f66ba87466afedb5e8d711a091c"
+
+[[files]]
+file = "resourcepacks/Custom Train Announcements/assets/minecraft/sounds/metrolink_spawn_platform_1.ogg"
+hash = "8071c0bf9b6e9335838b827618037056c80514ccbaab5f4556be9892d8214843"
+
+[[files]]
+file = "resourcepacks/Custom Train Announcements/assets/minecraft/sounds/metrolink_spawn_platform_1_concourse.ogg"
+hash = "9fd1ac8881e14ccc3105efc85f7c771684ebb49ab7a9e090531890043a6a2e75"
+
+[[files]]
+file = "resourcepacks/Custom Train Announcements/assets/minecraft/sounds/metrolink_spawn_platform_2.ogg"
+hash = "f9cddbb516581f5476e8b53fc258b51fb69033d88c84d57a3570e920baa137a0"
+
+[[files]]
+file = "resourcepacks/Custom Train Announcements/assets/minecraft/sounds/metrolink_spawn_platform_2_concourse.ogg"
+hash = "7f4d40fc821a1479f92ec99c9ea2567ed82771965199f5b68ed4c4bab1c85f17"
+
+[[files]]
+file = "resourcepacks/Custom Train Announcements/assets/minecraft/sounds/metrolink_spawn_platform_6.ogg"
+hash = "343362effa9cc6f1473a7ee670a40366ee8c8895cc37cddc788336a45023ccd8"
+
+[[files]]
+file = "resourcepacks/Custom Train Announcements/assets/minecraft/sounds/metrolink_spawn_platform_6_concourse.ogg"
+hash = "cb3606f6bc5411060639d06a2884e4e3457976c34d1d37a9789c200731d4a27d"
+
+[[files]]
+file = "resourcepacks/Custom Train Announcements/assets/minecraft/sounds/metrolink_spawn_platform_7_concourse.ogg"
+hash = "e1fda966d85ffdb704034ebbc11dc3541031ec8b86ec59fe98da4ec891666103"
+
+[[files]]
+file = "resourcepacks/Custom Train Announcements/assets/mtr/custom_directory/class_802.bbmodel"
+hash = "00a87adac7582509ab82f4a45a9be28fb3e1cd55cff8b7b67a56ff2fee3b663a"
+
+[[files]]
+file = "resourcepacks/Custom Train Announcements/assets/mtr/custom_directory/class_802_avanti.png"
+hash = "8c67c8c7d8dc64ee7158fdc1d1aa4459e9b29c5abb2d057d964b78dbcbeacc2d"
+
+[[files]]
+file = "resourcepacks/Custom Train Announcements/assets/mtr/lang/en_us.json"
+hash = "1a89b52729bde4c3d4cc3be7cd0c1fea4eea113ef1d38f696d0b07304c9d25b4"
+
+[[files]]
+file = "resourcepacks/Custom Train Announcements/assets/mtr/metrolink_logo.png"
+hash = "c3b8645dc88c811749cb0692c4152a92531c568bd0b334476add11d008639949"
+
+[[files]]
+file = "resourcepacks/Custom Train Announcements/assets/mtr/mtr_custom_resources.json"
+hash = "d19abfebf642314a4c26040ee790dc566c8482afd1f21f78d4f1371afd829f78"
+
+[[files]]
+file = "resourcepacks/Custom Train Announcements/pack.mcmeta"
+hash = "97a3a58ff8110bb41d6d50931108ce61a6d1902a81cc5b8d22f13edbaa3eaf12"
+
+[[files]]
+file = "resourcepacks/Custom Train Announcements/readme.txt"
+hash = "0bd78814d8bec0639c9f67af17f7250bb9c50719bd395cb6011bdbaa46fdb309"

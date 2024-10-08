@@ -1,0 +1,79 @@
+{
+  "metrolink_acacia_heights_platform_1": {
+    "sounds": [
+      {
+        "name": "minecraft:metrolink_acacia_heights_platform_1"
+      }
+    ]
+  },
+  "metrolink_acacia_heights_platform_2": {
+    "sounds": [
+      {
+        "name": "minecraft:metrolink_acacia_heights_platform_2"
+      }
+    ]
+  },
+  "metrolink_spawn_platform_1": {
+    "sounds": [
+      {
+        "name": "minecraft:metrolink_spawn_platform_1"
+      }
+    ]
+  },
+  "metrolink_spawn_platform_1_concourse": {
+    "sounds": [
+      {
+        "name": "minecraft:metrolink_spawn_platform_1_concourse"
+      }
+    ]
+  },
+  "metrolink_spawn_platform_2": {
+    "sounds": [
+      {
+        "name": "minecraft:metrolink_spawn_platform_2"
+      }
+    ]
+  },
+  "metrolink_spawn_platform_2_concourse": {
+    "sounds": [
+      {
+        "name": "minecraft:metrolink_spawn_platform_2_concourse"
+      }
+    ]
+  },
+  "metrolink_spawn_platform_6": {
+    "sounds": [
+      {
+        "name": "minecraft:metrolink_spawn_platform_6"
+      }
+    ]
+  },
+  "metrolink_spawn_platform_6_concourse": {
+    "sounds": [
+      {
+        "name": "minecraft:metrolink_spawn_platform_6_concourse"
+      }
+    ]
+  },
+  "metrolink_spawn_platform_7_concourse": {
+    "sounds": [
+      {
+        "name": "minecraft:metrolink_spawn_platform_7_concourse"
+      }
+    ]
+  },
+  "metrolink_pittsburgh_platform_1": {
+    "sounds": [
+      {
+        "name": "minecraft:metrolink_pittsburgh_platform_1"
+      }
+    ]
+  },
+  "metrolink_pittsburgh_platform_2": {
+    "sounds": [
+      {
+        "name": "minecraft:metrolink_pittsburgh_platform_2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "custom_trains": {},
+  "custom_signs": {
+    "metrolink_logo": {
+      "texture_id": "mtr:metrolink_logo.png",
+      "small": true
+    }
+  }
+}
