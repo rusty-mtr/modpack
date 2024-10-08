@@ -1,5 +1,6 @@
 name = "RustyMTR"
-version = "1.0.0"
+author = "Rustyy"
+version = "0.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
