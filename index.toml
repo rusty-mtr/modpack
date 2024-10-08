@@ -1,18 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/bta.pw.toml"
-hash = "40004f278003f1f37abf26290b442fc40a8dcdacce54673e633d829d7e928695"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "c0b641b5e3f1f71278913888d83d8a7727f4fe058a60d8f99d89fb388c7c473f"
-metafile = true
-
-[[files]]
-file = "mods/geckolib.pw.toml"
-hash = "83ad7d21bc43be38232b2d818ac5b9d45a44a03c140709eb3e0aa26ea73dca37"
 metafile = true
 
 [[files]]
@@ -28,9 +18,4 @@ metafile = true
 [[files]]
 file = "mods/the-tube.pw.toml"
 hash = "49b2591c17423f680ceba74a28e89ed92dff5471827312416b7f2ee24361532b"
-metafile = true
-
-[[files]]
-file = "mods/trinkets.pw.toml"
-hash = "657bbc4323c8297e9ac58ef13a6bbd2f72320f8fd492c1878d162b69a4355169"
 metafile = true
