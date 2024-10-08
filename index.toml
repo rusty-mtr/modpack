@@ -1,7 +1,7 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/resourcepackupdated.json"
+file = "config/resourcepackupdater.json"
 hash = "3bbd5ffec8026fa890d93575fecd1697a8026b481ae51d40f67b1b08d9693700"
 
 [[files]]
