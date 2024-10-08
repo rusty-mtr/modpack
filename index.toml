@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/resourcepackupdater.json"
-hash = "3bbd5ffec8026fa890d93575fecd1697a8026b481ae51d40f67b1b08d9693700"
-
-[[files]]
 file = "mods/bta.pw.toml"
 hash = "40004f278003f1f37abf26290b442fc40a8dcdacce54673e633d829d7e928695"
 metafile = true
@@ -28,10 +24,6 @@ metafile = true
 file = "mods/minecraft-transit-railway.pw.toml"
 hash = "c41e48dd560e0017daf1c0671577ee2d428f8b45cd78822f31047c69985dc8b0"
 metafile = true
-
-[[files]]
-file = "mods/resourcepackupdater-1.20.4-2.3.0.jar"
-hash = "ad1943311107f5b94e2fbe78225ec3286531cb8b419f3fb27e36c5d5890a0669"
 
 [[files]]
 file = "mods/the-tube.pw.toml"
